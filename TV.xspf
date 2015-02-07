@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Плейлист</title>
+	<trackList>
+		<track>
+			<location>udp://@239.255.2.122:1234</location>
+			<title>Первый канал</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/43fc72beb45fa2e4852285cb12a580eb/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.16:1234</location>
+			<title>Первый канал МСК</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/4d7d2d37971a7ee2b4b97564555a013f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.123:1234</location>
+			<title>Россия 1</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ed07f7b9cc6a7c0893c5810115524b0b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.158:1234</location>
+			<title>Россия 1 МСК</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/27696bffcd70a4272fba4dec8f147ada/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.116:1234</location>
+			<title>НТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d8fca76057c3cc964f34e3cf078a0f28/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.101:1234</location>
+			<title>Россия 2</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/99ceb3df425fa0d05057cdc5d83f90de/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.125:1234</location>
+			<title>Четвертый канал</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/95ffd51fb362587f42e10d1ccf48ca36/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.32:1234</location>
+			<title>СТС-Урал</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/49e209fafda5daef812dc5175448d8df/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.114:1234</location>
+			<title>ТНТ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ae2d7ace4842b4e7587b29e13389c67c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.68:1234</location>
+			<title>РЕН-Урал</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d3741faf0cc54a041163fc6f52860a5f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.30:1234</location>
+			<title>41-Домашний</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/09c26bbc7978299df3d680088a17b28a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.111:1234</location>
+			<title>АТН-Россия 24</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/dd58745c5c35e773e86fdcee5e7c023a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.102:1234</location>
+			<title>Россия 24</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3755a514cad014906a78db613a9878c1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.64:1234</location>
+			<title>Пятый канал</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/9bdbc5b45a87dddede50c696190b7f9e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.124:1234</location>
+			<title>ОТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0ce4dc2698b6d20988491ada116491f5/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.81:1234</location>
+			<title>ЦТУ-ТВ 3</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d7c547aed2b52796e78f7d9c9b6518ba/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.33:1234</location>
+			<title>Перец</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/566f2dcf2762da3f19681daffb464103/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.88:1234</location>
+			<title>ТВ Центр</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/745d9d2b87d584f0f7c0b09fc72294b1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.60:1234</location>
+			<title>Россия К</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8706d26940f56b61b95975eb607b0332/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.180:1234</location>
+			<title>Звезда</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/73ce3ed034240f85b45ea3494a73c4df/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.29:1234</location>
+			<title>Союз</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/9ad8ccafb14fcfdbe8e49d886e24b503/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.235:1234</location>
+			<title>Первый канал HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0cfe8a19b8d437253d7be83c2c9759a2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.237:1234</location>
+			<title>Охотник и рыболов HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8421ed45f2dd01faa8c321d10c0f139e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.139:1234</location>
+			<title>MyZen HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a025d9bdd794211f70489149ba5ca8db/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.142:1234</location>
+			<title>Mezzo Live HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/631d06b60e9fac36efd140663397882e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.143:1234</location>
+			<title>Fashion TV HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/60d2799f6eede42c1cd4b853869e4a53/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.236:1234</location>
+			<title>Россия HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f3548c2226d24107fb9afaa3085313c1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.235:1234</location>
+			<title>Первый канал HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0cfe8a19b8d437253d7be83c2c9759a2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.21:1234</location>
+			<title>Luxe TV HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c97edcc464deeb83c968baeb200ecddd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.207:1234</location>
+			<title>Outdoor Channel HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c1754a1fcaeb23f4f7e6ddc207c645cd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.135:1234</location>
+			<title>HD Life</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ba31c3302245a3dcf6f7f69b8ace6bac/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.176:1234</location>
+			<title>Дождь HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8b83f531312e9bd928cbbffaef8435ac/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.201:1234</location>
+			<title>MTV Live HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/4f677a974ec2c3e6bcf1767cbf946e80/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.86:1234</location>
+			<title>Еда HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cfbda6b0b528be6ea18992249b817be9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.206:1234</location>
+			<title>Travel+Adventure HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/b554ff84749ac955bc1918acef8e8d55/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.202:1234</location>
+			<title>Nickelodeon HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f997084297a7de18a388368d161cfa03/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.136:1234</location>
+			<title>National Geographic HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f2f635ffcdc5fc0dde34f061c2a2cece/art.gif</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.137:1234</location>
+			<title>Nat Geo Wild HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/9a52957286d3bd29dcc1e590bf76f801/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.19:1234</location>
+			<title>Телепутешествия HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/60a3ae97b8ebef1071df0c4a452eec0e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.150:1234</location>
+			<title>Discovery HD Showcase</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f1338463a8c37e34aa35fa01cee75e3d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.149:1234</location>
+			<title>Animal Planet HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8e03067aad96824f1846ac050b7b975c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.237:1234</location>
+			<title>Охотник и рыболов HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8421ed45f2dd01faa8c321d10c0f139e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.228:1234</location>
+			<title>КХЛ HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/48a670c2cc6633ca4ab9b6fb09a81bc6/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.138:1234</location>
+			<title>Спорт 1 HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/62cc9bd1fe4089c2869b3338cd47cb86/art.gif</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.97:1234</location>
+			<title>Eurosport HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/47aeb64b340bfe4f670f80e1abed3c32/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.219:1234</location>
+			<title>SET HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/09a87ef7e486aa837e20527a10e6986e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.190:1234</location>
+			<title>MGM HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ce2b749ada78dae687d15e1d1aed33a9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.223:1234</location>
+			<title>Fox Life HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/31574d65b375931bc7de2b0aaee0dca1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.222:1234</location>
+			<title>FOX HD</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bebada4aa1870440835f9b4471195a2f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.154:1234</location>
+			<title>Домашний Магазин</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bee1beac713f83ad3e2f0493a730761b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.174:1234</location>
+			<title>TVCLUB</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/73aa2850620419887a27cf457b8d3aee/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.153:1234</location>
+			<title>ТТС</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f3f1c0a2b18bad199fc6fa66d39e8d91/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.152:1234</location>
+			<title>TOP SHOP TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/5353daf12082402ad188d594a2651712/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.210:1234</location>
+			<title>Shopping Live</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/db23d4819da15859d86d6d101981ea2d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.212:1234</location>
+			<title>Стиль и Мода</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bbcbf5c80f0f6c139321abc152b022e9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.59:1234</location>
+			<title>РБК ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bfc7092c51af74635b11bf671ae1e53b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.57:1234</location>
+			<title>Russia Today</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e21ae7d94ccfb30cc9e9b56790b80960/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.34:1234</location>
+			<title>Эксперт</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7a50a39c4a004bd2a40f18a9c5152c89/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.42:1234</location>
+			<title>ТРО</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a351429c2f40a280b27dcc885d8f9163/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.40:1234</location>
+			<title>Мир</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/11b72bce403bf8d69b4a5050c1ecbfd4/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.36:1234</location>
+			<title>Время</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c655637ba7e87863ae3e289855f32983/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.175:1234</location>
+			<title>КП ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e03b48c890e210b862bceb67bb589659/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.178:1234</location>
+			<title>EuroNews</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3a147f5fb4bab68bd841cf2f78b6806b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.98:1234</location>
+			<title>CNN</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0cfefaed48e8762416b012038b08f27c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.169:1234</location>
+			<title>ТБН</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/19adbfe141fff377d7f5f432b1948eb7/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.160:1234</location>
+			<title>Deutsche Welle</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/61b8a2aa014f7ab004ab37b91523e24d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.161:1234</location>
+			<title>FRANCE 24</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f0ed1f81bf9dc3aac0a4c4dc45956c3e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.58:1234</location>
+			<title>Fox Life</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e1a7ca1d10905ac2412cf4836dea972c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.53:1234</location>
+			<title>FOX</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ca3344350b72d57024bbed23411b5c06/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.112:1234</location>
+			<title>Закон ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/60a1e36d06b7d85ca67b64d721b70b01/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.56:1234</location>
+			<title>Успех</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/18041b458881e1af3421a39d8bd96c66/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.117:1234</location>
+			<title>Парк развлечений</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2869cde59d3d6b9d052bf0bc7363a921/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.31:1234</location>
+			<title>Тонус ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f920a94d6a9108c31248beb37797f3ba/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.75:1234</location>
+			<title>Мужской</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/29e8a86f231acabbd6c92f5fa138a323/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.110:1234</location>
+			<title>365 Дней ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/16cbf384a5247496a0eda0c4839332ec/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.211:1234</location>
+			<title>Eurosport News</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/19ecf19d174e94e91ba7d741df300970/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.218:1234</location>
+			<title>Nick Jr.</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/1fa1d3e9a4a760d258df27b65678b43d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.209:1234</location>
+			<title>Travel+Adventure</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fcd214d13ffa8f18baccec7f3d32ef7d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.95:1234</location>
+			<title>CBS Reality</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a2370f94850868b00e42bf7dc7dda698/art.JPG</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.189:1234</location>
+			<title>24 ДОК</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/1fee42cafb5d8d7ee1c5205a76b71374/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.133:1234</location>
+			<title>Discovery Channel</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/1af4ced7009a6dd193d1de8bd8154441/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.134:1234</location>
+			<title>Animal Planet</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cc176f6339c46437792a32f1880b72bf/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.6:1234</location>
+			<title>National Geographic</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ff288af81244e66e200728d7ebb689ae/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.8:1234</location>
+			<title>Nat Geo Wild</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2e3d71f2fe90b1f66b28db7e05cbd111/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.55:1234</location>
+			<title>Ocean TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/9e0cdd3929e54360e38d1a4fdaea8d66/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.45:1234</location>
+			<title>Телепутешествия</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c1e87fe166e36469b6d11fb89cbec7fe/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.94:1234</location>
+			<title>Домашние животные</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7428863c75e47028edc2aadfff519169/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.89:1234</location>
+			<title>Amazing Life</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/b6f7ebd4af95653d13fe6b63c26cff17/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.172:1234</location>
+			<title>Астро ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/075b164f4f969f7eba047ba9b44f584f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.62:1234</location>
+			<title>24ТЕХНО</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/4cc34ab2969b7dbfdfdc5cf16f3e994e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.70:1234</location>
+			<title>RTG TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/08c2eff94fda96716eea9e0683103d20/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.105:1234</location>
+			<title>Ностальгия</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/36acedf3af93ab791b85797e7fcb08ab/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.18:1234</location>
+			<title>Охота и рыбалка</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/be12f1612a4a66862bb78cd4737e43ee/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.79:1234</location>
+			<title>Усадьба ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/5b0f69af5381609389a287a772800a99/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.76:1234</location>
+			<title>Здоровое ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/066f9a770f6e0be0b3525b7c903a3ce0/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.63:1234</location>
+			<title>Мать и Дитя</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/6efc5b80b1f9666efbb7cf013d5cb256/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.82:1234</location>
+			<title>Драйв</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/63d008be5ae77dc5e768cae60ebf9b8d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.87:1234</location>
+			<title>Ретро</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e77eeaa3659b3ab7555e9e01ef9889f0/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.93:1234</location>
+			<title>Психология 21</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/33088c8335f2ca546bf26ada166c3e7b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.20:1234</location>
+			<title>Вопросы и ответы</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7c1e5239c775111c04c393431d372d28/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.83:1234</location>
+			<title>Первый образовательный</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7505ea93cc50d3dff0a772d305293f76/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.193:1234</location>
+			<title>NANO TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8ae422efb70b7ea1667a4f7a87fb322a/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.227:1234</location>
+			<title>Загородная жизнь</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a6c48ed8b7e696bdeed483989877c50d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.74:1234</location>
+			<title>Diva Universal</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ff3efb51737a272615f6f4c079db5ded/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.11:1234</location>
+			<title>Кинопоказ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/117cb44f0e2f77c1accebf65ca993463/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.12:1234</location>
+			<title>Кино Плюс</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2fbd9e2c6dbaf544b5056aba1b55c1c4/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.7:1234</location>
+			<title>Дом кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/b00ecd88cde000670ab72d80052a048e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.148:1234</location>
+			<title>Любимое кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/82b95bd49b21af0641fa7244b47dadbb/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.221:1234</location>
+			<title>Comedy TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/66d1fa90409461a8dcaa91488ecc3402/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.92:1234</location>
+			<title>Юмор Box</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/619493407aca84a76f69abae4cd9abfe/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.4:1234</location>
+			<title>2x2</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a192948dd69056d309d727cc5967149b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.38:1234</location>
+			<title>Телекафе</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/19a89a3b112e2a4f4be7060c31103647/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.50:1234</location>
+			<title>Синергия ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3d894ac73343a4a7f965df7c8f1ce216/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.71:1234</location>
+			<title>ТДК</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/84d8895f454053ede28e22eca89e511f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.119:1234</location>
+			<title>World Fashion Channel</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f59a7b15471cb27021b5d80f6030d0da/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.90:1234</location>
+			<title>Style TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3b250e1f60404151c01050cff644ee22/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.126:1234</location>
+			<title>РазТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3a52d128012e02712c8a93cc88379fc9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.28:1234</location>
+			<title>A-ONE</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f78f64c70d6dc73dd547abe15ddf03bc/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.27:1234</location>
+			<title>Bridge TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/eac9c7a2a50ded8073830ebc0e8cc88a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.127:1234</location>
+			<title>RU.TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/428561d47417c42d15177b746ec6111c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.15:1234</location>
+			<title>Music Box TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/eadffeac297d8323208f091c139506d2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.14:1234</location>
+			<title>Music Box Ru</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fe98b1f01712b1da322acb2dc0d8660e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.151:1234</location>
+			<title>Europa Plus TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bcdcedb3ab560b6d55a45b27aa7798bb/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.130:1234</location>
+			<title>Rusong TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cdd051ddd8881ffed522fe02983ab60f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.2:1234</location>
+			<title>Музыка Первого</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d34ec352b69ca947987cf3c3430cbd29/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.181:1234</location>
+			<title>RE: Music</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/66b34a6c0f0d33ad4ccc1a4fd22f587b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.185:1234</location>
+			<title>C MUSIC TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/69e20433beb0d1a8f1252692e6f9d079/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.155:1234</location>
+			<title>Ю - ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/97bccbf9839a937d73214ea3e938fc4e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.213:1234</location>
+			<title>MTV Russia</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cf15b6d13cc80f92ed582cae17953e95/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.5:1234</location>
+			<title>Eurosport</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8335c11256b015ab61c6921a7586cbac/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.77:1234</location>
+			<title>КХЛ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/eec6a0e4aa8bb6f3b815615f7f5c5783/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.108:1234</location>
+			<title>Баскетбол</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3e0ecf5ec5e9a87dadcb06684751d806/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.96:1234</location>
+			<title>Extreme Sports Channel</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ab2ac0677aa32b34caad1fc8f754458a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.162:1234</location>
+			<title>TVARMRU</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0b5b547d4de6f8b1c9404bb04fe0b191/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.163:1234</location>
+			<title>ТНВ Татарстан</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/90a8872a3f860ece8871f1ace6e2354a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.200:1234</location>
+			<title>9 Волна</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/be5f27b13487c58ce06eff2df1e7ae13/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.164:1234</location>
+			<title>AzTV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/980655aac3ba095e1e6a7d2891e6e175/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.165:1234</location>
+			<title>ЧГТРК &quot;Грозный&quot;</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/b8ea5201d58d3366540a5c07955479f6/art.JPG</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.166:1234</location>
+			<title>РГВК &quot;Дагестан&quot;</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/68d579788df86c2d65864593b441fbb5/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.1:1234</location>
+			<title>Disney</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/666004500f1b761559104b5831c51cc2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.3:1234</location>
+			<title>Карусель</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f6804e126c7bda67390ea82c22aebcf1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.170:1234</location>
+			<title>Улыбка ребёнка</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e096581d73bfa828c3d2e46037c6973a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.177:1234</location>
+			<title>Радость Моя</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/11a581a8de27d708162a0c45a1ad1bb8/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.41:1234</location>
+			<title>Teen TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d61ce3eb1b2a161d551704446998d9ce/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.144:1234</location>
+			<title>Boomerang  </title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e9f3574de5a59eaab3e44ef6df00c5f6/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.131:1234</location>
+			<title>Discovery Science</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/dbf75238b95b85b66325e57c48b93d30/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.141:1234</location>
+			<title>Investigation Discovery</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fae3dd83ee7aec9facaafd3416e47318/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.132:1234</location>
+			<title>Discovery World</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3028b55d50b26e7aabf4d911eee37d62/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.140:1234</location>
+			<title>TLC</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fd3db5de6e2e1b331979503ff9d9acb4/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.13:1234</location>
+			<title>Спорт Плюс</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/1aa73a0b477a83831f4bb9ce4c760f09/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.66:1234</location>
+			<title>Eurosport 2</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/d2666e857d6c63246812ba616ef01dbf/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.104:1234</location>
+			<title>Боец ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cee66afbfaa222c3cce1705be43767a6/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.106:1234</location>
+			<title>Авто Плюс</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/13ec05df99aad01a4c83450a883cfeae/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.47:1234</location>
+			<title>TV 1000</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/adddf7215ce230dfa0b14bdd18718043/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.100:1234</location>
+			<title>TV 1000 Русское Кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/661045ab427e299ae055332fb4561cbd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.44:1234</location>
+			<title>TV1000 Action</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8616b83710b417a988d3c1534ca6dea0/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.49:1234</location>
+			<title>Viasat Explorer</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/5544da99eb2d903130b4f61eac7cc703/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.52:1234</location>
+			<title>Viasat History</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/229309e5ab98eddacff1c3398cb132fd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.54:1234</location>
+			<title>Viasat Sport</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e4160d968f2b3346bdaa5dd60a94ef54/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.99:1234</location>
+			<title>MGM</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/df5dabb5dbc7c7fc3e85ec77a16bbcd1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.73:1234</location>
+			<title>CBS Drama</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/68011946649ea5aac814349e45a2c0b1/art.JPG</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.48:1234</location>
+			<title>SONY ТВ (SET)</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/70e9924ba0c0148ac1606f22a56d4ef2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.51:1234</location>
+			<title>AXN SCI-FI</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/432f81f7120ebd151bfc9d10a62dc3ce/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.23:1234</location>
+			<title>SyFy</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8e4c7908f190bcc473847e60437dff30/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.24:1234</location>
+			<title>Universal</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/05c60d22ca023c470059c65d4350fccd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.120:1234</location>
+			<title>Наше новое кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a3319bc1ff09122a5ad39acde07c8073/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.46:1234</location>
+			<title>Феникс+Кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ecd93b74bc8bb288f38e7f3a947e8132/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.69:1234</location>
+			<title>TV XXI</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/14bdeb371990b8eb497cbad47833ffe8/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.109:1234</location>
+			<title>Много ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a6510ed9618a131b96ce014e3bf9c6fe/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.67:1234</location>
+			<title>Настоящее Страшное ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c27125f520c632b37979ff03db9a30a2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.168:1234</location>
+			<title>Комедия ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/24051e408443caaf114830572962babd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.26:1234</location>
+			<title>Наше кино</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/87ed87573e1feb8c5a73f13f4cff0304/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.17:1234</location>
+			<title>Nickelodeon</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cd7404fed12287ed5faae24d0bfeb85d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.9:1234</location>
+			<title>Cartoon Network</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/92d38e7adf9855be31cf96c3da7e4d82/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.10:1234</location>
+			<title>JimJam</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8ec4ad8460aa7efd4ee131111ade547b/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.25:1234</location>
+			<title>Зоо ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/dbc4a3b043642d9d7dfe5bc374e72d86/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.121:1234</location>
+			<title>Детский мир</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/4a627b743e7c9ef5ca5d40f5b9d7da21/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.192:1234</location>
+			<title>Мультимания</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/926e5c49097ed181336ca97d25d6c153/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.196:1234</location>
+			<title>Gulli</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/91db08359e3b4311d22b02a570a75c11/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.195:1234</location>
+			<title>Tiji</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2cc83de59f721832a0defb72efbeb083/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.61:1234</location>
+			<title>Моя планета</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/750af79b30832433e54b126c53bfd7b2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.146:1234</location>
+			<title>Наука 2.0</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/208af0d664f82b806916953b87d05804/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.197:1234</location>
+			<title>Русский Роман</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/6c70108740a4179fce10c2bcbd36dff9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.229:1234</location>
+			<title>Русский Бестселлер</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/30324c8785376657a02b6a05e4e5b710/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.230:1234</location>
+			<title>КИНО ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e79735e29e7cb1174a9898cb411c0ec1/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.233:1234</location>
+			<title>Iнтер+</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a13e1aa8786c19beb7d1bb90d1efc4b2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.234:1234</location>
+			<title>Спорт1</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2167cb442e1840b7d7c962619952eede/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.145:1234</location>
+			<title>Спорт</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a09c7055d73e056ab166901603bb0414/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.194:1234</location>
+			<title>Бойцовский Клуб</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ec7b13efbff216c337af6075cc5bbc02/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.156:1234</location>
+			<title>Страна</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/59fe8241ae04ec84a2306cbe99e18f12/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.129:1234</location>
+			<title>Сарафан</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3fe1793b45c0d1e629a335197398415c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.128:1234</location>
+			<title>Шансон ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8986f4bc97ba545262f01b8b7ddf0750/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.204:1234</location>
+			<title>Ля-минор</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0b8e13eeb207ed55d58fc758a801dd8e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.203:1234</location>
+			<title>S TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2edf614f484743aead886a99f9ca6929/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.35:1234</location>
+			<title>Охотник и рыболов</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8056182ace8fb40ff18c15da8a78b0c0/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.43:1234</location>
+			<title>Живи</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7c5248768fb503fdb10cb34c3a6e6c3e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.188:1234</location>
+			<title>Оружие</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/deabdee87f33cb76cd6369f4c85d19fd/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.167:1234</location>
+			<title>Индия ТВ</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cf718d8ea949c4ccd5cf1b383c3c0c7a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.226:1234</location>
+			<title>Zee TV</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/7b495923e8660bac3a44254c9940bb91/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.198:1234</location>
+			<title>VH1</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/39713fb59048c81fe7d1ab471ad6d7a5/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.216:1234</location>
+			<title>VH1 Classic</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/babfed3cfc522ca9223f8bb749b4357c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.214:1234</location>
+			<title>MTV HITS</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/a7c880041ab84f3e14667ede7889bd55/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.217:1234</location>
+			<title>MTV Dance</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/93a5999d3904ba31a127a62b403d5bd7/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.215:1234</location>
+			<title>MTV Rocks</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/5821b8f0d8c67d4dd8b1a3b8cc517c09/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.103:1234</location>
+			<title>Наш футбол</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/1fc4686e2f846ccf4a566c41f9144afc/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.199:1234</location>
+			<title>AMEDIA</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c9867e275d0e20be9fc2e5474f1348a2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.205:1234</location>
+			<title>Кинолюкс</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/6c9dbb699ab97d38de2b72189ccbef8e/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.2.224:1234</location>
+			<title>Мир Сериала</title>
+			<creator>Weburg.TV</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/4c1792e790678857bc500666a794f888/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.30:1234</location>
+			<title>DFM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/303d22d2e7ec88d0595ecdd974393f6d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.1:1234</location>
+			<title>Love Radio</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0b4237b5281b8e790b42f7ee9c7e2cc0/art.jpeg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.29:1234</location>
+			<title>MAXIMUM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3fd8126b4685f8e1e05068b012b24f2d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.2:1234</location>
+			<title>Metro FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>http://i.ytimg.com/vi/WMsgVbtEvSY/0.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.25:1234</location>
+			<title>Relax FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/c31488633794d42fb314eda2ef834ca7/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.33:1234</location>
+			<title>Rock-Arsenal</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f69ec155c5ad921f1d4858892e90cc8f/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.4:1234</location>
+			<title>Авторадио</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/47af52de10fa40c166dd7e9252595c01/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.5:1234</location>
+			<title>Бизнес FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8be835eb3dbd2ee03f3a28ddd62b3332/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.6:1234</location>
+			<title>Вести FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/24a81e4d7291695b9c8d7ea6679ff800/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.7:1234</location>
+			<title>Гардарика</title>
+			<creator>Weburg Ltd.</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.23:1234</location>
+			<title>Детское</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0ffde9f88b74737d6a6d741f652bb6d9/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.8:1234</location>
+			<title>Добрые песни</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/f03e4468aa57efc9745fa75b9e66bca4/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.9:1234</location>
+			<title>Дорожное радио</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/2ece30eae7c435d30f815813f594941d/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.26:1234</location>
+			<title>Европа Плюс</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bf8ba543c83aceb65168da79f4591251/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.10:1234</location>
+			<title>Милицейская волна</title>
+			<creator>Weburg Ltd.</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.34:1234</location>
+			<title>Наши песни</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/3e87554f228f4bdf7c4445417cc46e48/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.12:1234</location>
+			<title>Радио Ваня</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/845b7680b296058df11ff5d4543a6fe2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.13:1234</location>
+			<title>Радио Дача</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/845b7680b296058df11ff5d4543a6fe2/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.22:1234</location>
+			<title>Радио для двоих</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8e18637142d79a0b40eab4d6c3635715/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.24:1234</location>
+			<title>Радио Звезда</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bf5e7c40fc43a9b9e85b454561836a49/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.32:1234</location>
+			<title>Радио Комсомольская правда </title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/b0b539c0c3242f903b30d945c0b8e582/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.3:1234</location>
+			<title>Радио Маяк</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/cd5e271f94bcbec4a9763bd2092e426f/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.14:1234</location>
+			<title>Радио Рекорд</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/78314a7e4e10da0b4a1ac5d8e556422a/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.11:1234</location>
+			<title>Радио Романтика</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/22b958487d3ad0069643ca9567fb1edf/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.15:1234</location>
+			<title>Радио России</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fd4ceb447d75d4787d213a173dece364/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.28:1234</location>
+			<title>Радио Си</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/90a631c88679cc58b6a8773117ac084c/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.16:1234</location>
+			<title>Радио Шансон</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/bf8ba543c83aceb65168da79f4591251/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.17:1234</location>
+			<title>Радио Энергия</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/e48676f35ceba0b93ade106f882bb841/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.18:1234</location>
+			<title>Радио Юность</title>
+			<creator>Weburg Ltd.</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.27:1234</location>
+			<title>Русское Радио</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/fd4ceb447d75d4787d213a173dece364/art.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.19:1234</location>
+			<title>Сити FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/ab55132d99a56169d72dad554d119365/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.31:1234</location>
+			<title>Хит FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/38dd30ed4f981506ee8b6e96c08a8955/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.20:1234</location>
+			<title>Эхо москвы</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/0a579d9d0587dafe327ebe7e9c5016f3/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@239.255.3.21:1234</location>
+			<title>Юмор FM</title>
+			<creator>Weburg Ltd.</creator>
+			<image>file:///C:/Users/eNin/AppData/Roaming/vlc/art/arturl/8be835eb3dbd2ee03f3a28ddd62b3332/art.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:node title="Базовый эфирный">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+		</vlc:node>
+		<vlc:node title="Промо">
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+		</vlc:node>
+		<vlc:node title="Открытый HD">
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+		</vlc:node>
+		<vlc:node title="Базовый HD">
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+		</vlc:node>
+		<vlc:node title="HD">
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+		</vlc:node>
+		<vlc:node title="Познавательный HD">
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+		</vlc:node>
+		<vlc:node title="Спорт HD">
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+		</vlc:node>
+		<vlc:node title="HD+">
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+		</vlc:node>
+		<vlc:node title="Телемагазин">
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+		</vlc:node>
+		<vlc:node title="Базовый информационный">
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+			<vlc:item tid="57"/>
+			<vlc:item tid="58"/>
+			<vlc:item tid="59"/>
+			<vlc:item tid="60"/>
+			<vlc:item tid="61"/>
+			<vlc:item tid="62"/>
+			<vlc:item tid="63"/>
+			<vlc:item tid="64"/>
+			<vlc:item tid="65"/>
+			<vlc:item tid="66"/>
+		</vlc:node>
+		<vlc:node title="Базовый Открытый">
+			<vlc:item tid="67"/>
+			<vlc:item tid="68"/>
+			<vlc:item tid="69"/>
+			<vlc:item tid="70"/>
+			<vlc:item tid="71"/>
+			<vlc:item tid="72"/>
+			<vlc:item tid="73"/>
+			<vlc:item tid="74"/>
+			<vlc:item tid="75"/>
+			<vlc:item tid="76"/>
+			<vlc:item tid="77"/>
+			<vlc:item tid="78"/>
+			<vlc:item tid="79"/>
+		</vlc:node>
+		<vlc:node title="Базовый познавательный">
+			<vlc:item tid="80"/>
+			<vlc:item tid="81"/>
+			<vlc:item tid="82"/>
+			<vlc:item tid="83"/>
+			<vlc:item tid="84"/>
+			<vlc:item tid="85"/>
+			<vlc:item tid="86"/>
+			<vlc:item tid="87"/>
+			<vlc:item tid="88"/>
+			<vlc:item tid="89"/>
+			<vlc:item tid="90"/>
+			<vlc:item tid="91"/>
+		</vlc:node>
+		<vlc:node title="Базовый Увлечения">
+			<vlc:item tid="92"/>
+			<vlc:item tid="93"/>
+			<vlc:item tid="94"/>
+			<vlc:item tid="95"/>
+			<vlc:item tid="96"/>
+			<vlc:item tid="97"/>
+			<vlc:item tid="98"/>
+			<vlc:item tid="99"/>
+			<vlc:item tid="100"/>
+			<vlc:item tid="101"/>
+			<vlc:item tid="102"/>
+		</vlc:node>
+		<vlc:node title="Базовый кино">
+			<vlc:item tid="103"/>
+			<vlc:item tid="104"/>
+			<vlc:item tid="105"/>
+			<vlc:item tid="106"/>
+			<vlc:item tid="107"/>
+			<vlc:item tid="108"/>
+		</vlc:node>
+		<vlc:node title="Базовый развлекательный">
+			<vlc:item tid="109"/>
+			<vlc:item tid="110"/>
+			<vlc:item tid="111"/>
+			<vlc:item tid="112"/>
+			<vlc:item tid="113"/>
+			<vlc:item tid="114"/>
+			<vlc:item tid="115"/>
+			<vlc:item tid="116"/>
+		</vlc:node>
+		<vlc:node title="Базовый музыка">
+			<vlc:item tid="117"/>
+			<vlc:item tid="118"/>
+			<vlc:item tid="119"/>
+			<vlc:item tid="120"/>
+			<vlc:item tid="121"/>
+			<vlc:item tid="122"/>
+			<vlc:item tid="123"/>
+			<vlc:item tid="124"/>
+			<vlc:item tid="125"/>
+			<vlc:item tid="126"/>
+			<vlc:item tid="127"/>
+			<vlc:item tid="128"/>
+		</vlc:node>
+		<vlc:node title="Базовый спорт">
+			<vlc:item tid="129"/>
+			<vlc:item tid="130"/>
+			<vlc:item tid="131"/>
+			<vlc:item tid="132"/>
+		</vlc:node>
+		<vlc:node title="Базовый Национальный">
+			<vlc:item tid="133"/>
+			<vlc:item tid="134"/>
+			<vlc:item tid="135"/>
+			<vlc:item tid="136"/>
+			<vlc:item tid="137"/>
+			<vlc:item tid="138"/>
+		</vlc:node>
+		<vlc:node title="Базовый детский">
+			<vlc:item tid="139"/>
+			<vlc:item tid="140"/>
+			<vlc:item tid="141"/>
+			<vlc:item tid="142"/>
+			<vlc:item tid="143"/>
+			<vlc:item tid="144"/>
+		</vlc:node>
+		<vlc:node title="Дискавери +">
+			<vlc:item tid="145"/>
+			<vlc:item tid="146"/>
+			<vlc:item tid="147"/>
+			<vlc:item tid="148"/>
+		</vlc:node>
+		<vlc:node title="Спорт">
+			<vlc:item tid="149"/>
+			<vlc:item tid="150"/>
+			<vlc:item tid="151"/>
+			<vlc:item tid="152"/>
+		</vlc:node>
+		<vlc:node title="Виасат">
+			<vlc:item tid="153"/>
+			<vlc:item tid="154"/>
+			<vlc:item tid="155"/>
+			<vlc:item tid="156"/>
+			<vlc:item tid="157"/>
+			<vlc:item tid="158"/>
+		</vlc:node>
+		<vlc:node title="VIP Кино">
+			<vlc:item tid="159"/>
+			<vlc:item tid="160"/>
+			<vlc:item tid="161"/>
+			<vlc:item tid="162"/>
+			<vlc:item tid="163"/>
+			<vlc:item tid="164"/>
+		</vlc:node>
+		<vlc:node title="Кино">
+			<vlc:item tid="165"/>
+			<vlc:item tid="166"/>
+			<vlc:item tid="167"/>
+			<vlc:item tid="168"/>
+			<vlc:item tid="169"/>
+			<vlc:item tid="170"/>
+			<vlc:item tid="171"/>
+		</vlc:node>
+		<vlc:node title="Детям">
+			<vlc:item tid="172"/>
+			<vlc:item tid="173"/>
+			<vlc:item tid="174"/>
+			<vlc:item tid="175"/>
+			<vlc:item tid="176"/>
+			<vlc:item tid="177"/>
+			<vlc:item tid="178"/>
+			<vlc:item tid="179"/>
+		</vlc:node>
+		<vlc:node title="Планета Бестселлер">
+			<vlc:item tid="180"/>
+			<vlc:item tid="181"/>
+			<vlc:item tid="182"/>
+			<vlc:item tid="183"/>
+			<vlc:item tid="184"/>
+			<vlc:item tid="185"/>
+			<vlc:item tid="186"/>
+			<vlc:item tid="187"/>
+			<vlc:item tid="188"/>
+			<vlc:item tid="189"/>
+			<vlc:item tid="190"/>
+		</vlc:node>
+		<vlc:node title="Увлечения">
+			<vlc:item tid="191"/>
+			<vlc:item tid="192"/>
+			<vlc:item tid="193"/>
+			<vlc:item tid="194"/>
+			<vlc:item tid="195"/>
+			<vlc:item tid="196"/>
+			<vlc:item tid="197"/>
+			<vlc:item tid="198"/>
+		</vlc:node>
+		<vlc:node title="Music">
+			<vlc:item tid="199"/>
+			<vlc:item tid="200"/>
+			<vlc:item tid="201"/>
+			<vlc:item tid="202"/>
+			<vlc:item tid="203"/>
+		</vlc:node>
+		<vlc:node title="Дополнительный">
+			<vlc:item tid="204"/>
+			<vlc:item tid="205"/>
+			<vlc:item tid="206"/>
+			<vlc:item tid="207"/>
+		</vlc:node>
+		<vlc:node title="Радио">
+			<vlc:item tid="208"/>
+			<vlc:item tid="209"/>
+			<vlc:item tid="210"/>
+			<vlc:item tid="211"/>
+			<vlc:item tid="212"/>
+			<vlc:item tid="213"/>
+			<vlc:item tid="214"/>
+			<vlc:item tid="215"/>
+			<vlc:item tid="216"/>
+			<vlc:item tid="217"/>
+			<vlc:item tid="218"/>
+			<vlc:item tid="219"/>
+			<vlc:item tid="220"/>
+			<vlc:item tid="221"/>
+			<vlc:item tid="222"/>
+			<vlc:item tid="223"/>
+			<vlc:item tid="224"/>
+			<vlc:item tid="225"/>
+			<vlc:item tid="226"/>
+			<vlc:item tid="227"/>
+			<vlc:item tid="228"/>
+			<vlc:item tid="229"/>
+			<vlc:item tid="230"/>
+			<vlc:item tid="231"/>
+			<vlc:item tid="232"/>
+			<vlc:item tid="233"/>
+			<vlc:item tid="234"/>
+			<vlc:item tid="235"/>
+			<vlc:item tid="236"/>
+			<vlc:item tid="237"/>
+			<vlc:item tid="238"/>
+			<vlc:item tid="239"/>
+			<vlc:item tid="240"/>
+			<vlc:item tid="241"/>
+		</vlc:node>
+	</extension>
+</playlist>
