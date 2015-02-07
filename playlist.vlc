@@ -8,7 +8,7 @@
       <image>http://gl.weburg.net/00/tv/channels/1/14/amino/380642.jpg</image>
       <creator>Weburg.TV</creator>
       <extension application="http://www.videolan.org/vlc/playlist/0">
-        <vlc:id xmlns:vlc="vlc">1</vlc:id>
+        <vlc:id>1</vlc:id>
       </extension>
     </track>
   </trackList>
